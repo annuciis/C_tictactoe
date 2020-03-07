@@ -1,0 +1,19 @@
+C:\Users\r3g_temp\source\repos\Tic tac toe\bin\Debug\Tic tac toe.exe.config
+C:\Users\r3g_temp\source\repos\Tic tac toe\bin\Debug\Tic tac toe.exe
+C:\Users\r3g_temp\source\repos\Tic tac toe\bin\Debug\Tic tac toe.pdb
+C:\Users\r3g_temp\source\repos\Tic tac toe\obj\Debug\Tic tac toe.csprojAssemblyReference.cache
+C:\Users\r3g_temp\source\repos\Tic tac toe\obj\Debug\Tic_tac_toe.Properties.Resources.resources
+C:\Users\r3g_temp\source\repos\Tic tac toe\obj\Debug\Tic tac toe.csproj.GenerateResource.cache
+C:\Users\r3g_temp\source\repos\Tic tac toe\obj\Debug\Tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\r3g_temp\source\repos\Tic tac toe\obj\Debug\Tic tac toe.exe
+C:\Users\r3g_temp\source\repos\Tic tac toe\obj\Debug\Tic tac toe.pdb
+C:\Users\r3g_temp\source\repos\Tic tac toe\obj\Debug\Tic_tac_toe.Game.resources
+C:\Users\r3g_temp\Downloads\Tic tac toe\obj\Debug\Tic tac toe.csprojAssemblyReference.cache
+C:\Users\r3g_temp\Downloads\Tic tac toe\obj\Debug\Tic_tac_toe.Game.resources
+C:\Users\r3g_temp\Downloads\Tic tac toe\obj\Debug\Tic_tac_toe.Properties.Resources.resources
+C:\Users\r3g_temp\Downloads\Tic tac toe\obj\Debug\Tic tac toe.csproj.GenerateResource.cache
+C:\Users\r3g_temp\Downloads\Tic tac toe\obj\Debug\Tic tac toe.exe
+C:\Users\r3g_temp\Downloads\Tic tac toe\obj\Debug\Tic tac toe.pdb
+C:\Users\r3g_temp\Downloads\Tic tac toe\bin\Debug\Tic tac toe.exe.config
+C:\Users\r3g_temp\Downloads\Tic tac toe\bin\Debug\Tic tac toe.exe
+C:\Users\r3g_temp\Downloads\Tic tac toe\bin\Debug\Tic tac toe.pdb
